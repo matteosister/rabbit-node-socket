@@ -1,0 +1,13 @@
+{
+    "name": "matteo/php",
+    "require": {
+        "videlalvaro/php-amqplib": "~2.2.2"
+    },
+    "authors": [
+        {
+            "name": "Matteo",
+            "email": "matteog@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
