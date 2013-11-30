@@ -1,0 +1,17 @@
+<div class="jumbotron">
+  <h1>Messages</h1>
+</div>
+
+<div class="row marketing">
+    <table class="table">
+        <tr>
+            <th>data</th>
+            <th>content</th>
+        </tr>
+        <tr ng-repeat="message in messages">
+            <td>{{ message.date|date:'medium' }}</td>
+            <td>{{ message.content }}</td>
+        </tr>
+    </table>
+</div>
+

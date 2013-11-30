@@ -2,3 +2,8 @@ php/vendor
 php/bower_components
 php/node_modules
 node/node_modules
+angular-app/node_modules
+angular-app/dist
+angular-app/.tmp
+angular-app/.sass-cache
+angular-app/app/bower_components
